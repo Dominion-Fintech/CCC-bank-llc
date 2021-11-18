@@ -14,3 +14,12 @@ Any other details should be cmmented here
 comm
 
 # Rememberb to add the cript
+
+
+
+Names ofthe new joiners
+1. hons
+daswer
+mans
+nes
+mwn
