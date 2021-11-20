@@ -27,3 +27,6 @@ mwn
 
 
 this is my seconf activity
+nom
+hasn
+dafs
