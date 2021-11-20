@@ -23,3 +23,7 @@ daswer
 mans
 nes
 mwn
+
+
+
+this is my seconf activity
